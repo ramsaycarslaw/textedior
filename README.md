@@ -1,4 +1,4 @@
-# Goals
+# Goals
 
 1. minimal UI, readable fonts
 2. super fast opening speds
